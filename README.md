@@ -58,7 +58,7 @@ If you'd like to test this live application:
 2. Enter an email address (note: currently configured for specific test emails due to free tier restrictions)
 3. Select your preferred news categories
 4. Click "Subscribe to Newsletter"
-5. You'll receive the next newsletter at the scheduled time (3:20 PM CDT daily)
+5. You'll receive the next newsletter at the scheduled time (1:00 PM UTC/ 8:00 AM CDT daily)
 
 ### Option 2: Run Your Own Instance
 
