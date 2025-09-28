@@ -281,7 +281,7 @@ too slow i want to test if i can send a dummy email
 - Separated email testing from content generation
 - Added instant preview functionality
 
-### Issue 4: Cron Scheduling
+### Issue 4: Cron Scheduling for testing
 ```
 change the time to 3:20 pm cdt
 ```
@@ -297,7 +297,7 @@ change the time to 3:20 pm cdt
 
 ### Prompt
 ```
-write me readme in this fashion for spring internship application showcase
+write me readme in this fashion(...structure for the readme file...) for spring internship application showcase
 ```
 
 **Documentation Requirements:**
