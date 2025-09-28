@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250927.0"
+  },
+  "dependencies": {
+    "itty-router": "^5.0.22"
+  }
+}

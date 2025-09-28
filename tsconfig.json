@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"moduleResolution": "node",
+		// This is the key change: we remove "dom" and only include "esnext".
+		// This prevents conflicts with browser-specific types.
+		"lib": ["esnext"],
+		"jsx": "react-jsx",
+		"esModuleInterop": true,
+		"strict": true,
+		// This ensures that Cloudflare's global types are available.
+		"types": ["@cloudflare/workers-types"]
+	},
+	"include": ["src"]
+}
