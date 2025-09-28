@@ -11,7 +11,7 @@ database_name = "newsletter-db"
 database_id = "c22e14b1-4a1a-4819-a046-658169a6e35e"
 
 [ai]
-binding = "AI"
+binding = "AI" # This is how you'll access it in your code: env.AI
 
 [triggers]
 crons = ["0 13 * * *"] # 1:00 PM UTC daily. You can adjust this schedule.
