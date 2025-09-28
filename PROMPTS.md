@@ -391,6 +391,6 @@ clean the code because i will now push it into git and i dont want people to see
 *This phase-by-phase development approach demonstrates methodical software engineering practices, effective problem-solving skills, and the ability to deliver production-ready solutions using modern development tools and AI assistance.*
 
 **Developed by:** Eswar Deep  
-**AI Assistant:** Claude Sonnet 3.5 by Anthropic  
-**Development Period:** September 2025  
+**AI Assistant:** Claude Sonnet 4 by Anthropic  
+**Development Period:** 27th and 28th September 2025  
 **Purpose:** Spring 2025 Internship Application Portfolio
