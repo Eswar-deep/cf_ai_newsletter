@@ -1,6 +1,6 @@
 # 🤖 AI Newsletter - Automated News Curation System
 
-**A full-stack AI-powered newsletter application built for spring internship application showcasea at cloudlfare**
+**A full-stack AI-powered newsletter application built for spring internship application showcasea at Cloudflare**
 
 ## 📖 Project Overview
 
